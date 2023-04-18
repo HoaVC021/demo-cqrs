@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HRPD2WBbFgMFEy8cx+keMEPGXGVWC5+STDUqPZIiQD6B5cXxkBcgZCMv2MWkYkPpyqBMTQ5fHF+1JUzkfiEm5Q==",
+  "success": true,
+  "projectFilePath": "D:\\source-code (1)\\after\\gatherly\\src\\Gatherly.Domain\\Gatherly.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HoaVC\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

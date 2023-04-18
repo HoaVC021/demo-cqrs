@@ -1,0 +1,15 @@
+D:\source-code (1)\after\gatherly\src\Gatherly.Application\bin\Debug\net7.0\Gatherly.Application.deps.json
+D:\source-code (1)\after\gatherly\src\Gatherly.Application\bin\Debug\net7.0\Gatherly.Application.dll
+D:\source-code (1)\after\gatherly\src\Gatherly.Application\bin\Debug\net7.0\Gatherly.Application.pdb
+D:\source-code (1)\after\gatherly\src\Gatherly.Application\bin\Debug\net7.0\Gatherly.Domain.dll
+D:\source-code (1)\after\gatherly\src\Gatherly.Application\bin\Debug\net7.0\Gatherly.Domain.pdb
+D:\source-code (1)\after\gatherly\src\Gatherly.Application\obj\Debug\net7.0\Gatherly.Application.csproj.AssemblyReference.cache
+D:\source-code (1)\after\gatherly\src\Gatherly.Application\obj\Debug\net7.0\Gatherly.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\source-code (1)\after\gatherly\src\Gatherly.Application\obj\Debug\net7.0\Gatherly.Application.AssemblyInfoInputs.cache
+D:\source-code (1)\after\gatherly\src\Gatherly.Application\obj\Debug\net7.0\Gatherly.Application.AssemblyInfo.cs
+D:\source-code (1)\after\gatherly\src\Gatherly.Application\obj\Debug\net7.0\Gatherly.Application.csproj.CoreCompileInputs.cache
+D:\source-code (1)\after\gatherly\src\Gatherly.Application\obj\Debug\net7.0\Gatherly.Application.csproj.CopyComplete
+D:\source-code (1)\after\gatherly\src\Gatherly.Application\obj\Debug\net7.0\Gatherly.Application.dll
+D:\source-code (1)\after\gatherly\src\Gatherly.Application\obj\Debug\net7.0\refint\Gatherly.Application.dll
+D:\source-code (1)\after\gatherly\src\Gatherly.Application\obj\Debug\net7.0\Gatherly.Application.pdb
+D:\source-code (1)\after\gatherly\src\Gatherly.Application\obj\Debug\net7.0\ref\Gatherly.Application.dll

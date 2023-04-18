@@ -1,0 +1,15 @@
+D:\source-code (1)\after\gatherly\src\Gatherly.Persistence\bin\Debug\net7.0\Gatherly.Persistence.deps.json
+D:\source-code (1)\after\gatherly\src\Gatherly.Persistence\bin\Debug\net7.0\Gatherly.Persistence.dll
+D:\source-code (1)\after\gatherly\src\Gatherly.Persistence\bin\Debug\net7.0\Gatherly.Persistence.pdb
+D:\source-code (1)\after\gatherly\src\Gatherly.Persistence\bin\Debug\net7.0\Gatherly.Domain.dll
+D:\source-code (1)\after\gatherly\src\Gatherly.Persistence\bin\Debug\net7.0\Gatherly.Domain.pdb
+D:\source-code (1)\after\gatherly\src\Gatherly.Persistence\obj\Debug\net7.0\Gatherly.Persistence.csproj.AssemblyReference.cache
+D:\source-code (1)\after\gatherly\src\Gatherly.Persistence\obj\Debug\net7.0\Gatherly.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\source-code (1)\after\gatherly\src\Gatherly.Persistence\obj\Debug\net7.0\Gatherly.Persistence.AssemblyInfoInputs.cache
+D:\source-code (1)\after\gatherly\src\Gatherly.Persistence\obj\Debug\net7.0\Gatherly.Persistence.AssemblyInfo.cs
+D:\source-code (1)\after\gatherly\src\Gatherly.Persistence\obj\Debug\net7.0\Gatherly.Persistence.csproj.CoreCompileInputs.cache
+D:\source-code (1)\after\gatherly\src\Gatherly.Persistence\obj\Debug\net7.0\Gatherly.Persistence.csproj.CopyComplete
+D:\source-code (1)\after\gatherly\src\Gatherly.Persistence\obj\Debug\net7.0\Gatherly.Persistence.dll
+D:\source-code (1)\after\gatherly\src\Gatherly.Persistence\obj\Debug\net7.0\refint\Gatherly.Persistence.dll
+D:\source-code (1)\after\gatherly\src\Gatherly.Persistence\obj\Debug\net7.0\Gatherly.Persistence.pdb
+D:\source-code (1)\after\gatherly\src\Gatherly.Persistence\obj\Debug\net7.0\ref\Gatherly.Persistence.dll
